@@ -11,6 +11,8 @@
     "@testing-library/user-event": "^13.5.0",
     "chart.js": "^3.8.0",
     "formik": "^2.2.9",
+    "googleapis": "^123.0.0",
+    "mongodb": "^5.7.0",
     "react": "^18.2.0",
     "react-chartjs-2": "^4.3.1",
     "react-dom": "^18.2.0",
